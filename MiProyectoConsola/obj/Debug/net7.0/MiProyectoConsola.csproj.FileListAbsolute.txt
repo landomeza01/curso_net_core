@@ -1,0 +1,15 @@
+C:\Materias\C#\CourseM1CSharp\MiProyectoConsola\bin\Debug\net7.0\MiProyectoConsola.exe
+C:\Materias\C#\CourseM1CSharp\MiProyectoConsola\bin\Debug\net7.0\MiProyectoConsola.deps.json
+C:\Materias\C#\CourseM1CSharp\MiProyectoConsola\bin\Debug\net7.0\MiProyectoConsola.runtimeconfig.json
+C:\Materias\C#\CourseM1CSharp\MiProyectoConsola\bin\Debug\net7.0\MiProyectoConsola.dll
+C:\Materias\C#\CourseM1CSharp\MiProyectoConsola\bin\Debug\net7.0\MiProyectoConsola.pdb
+C:\Materias\C#\CourseM1CSharp\MiProyectoConsola\obj\Debug\net7.0\MiProyectoConsola.csproj.AssemblyReference.cache
+C:\Materias\C#\CourseM1CSharp\MiProyectoConsola\obj\Debug\net7.0\MiProyectoConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Materias\C#\CourseM1CSharp\MiProyectoConsola\obj\Debug\net7.0\MiProyectoConsola.AssemblyInfoInputs.cache
+C:\Materias\C#\CourseM1CSharp\MiProyectoConsola\obj\Debug\net7.0\MiProyectoConsola.AssemblyInfo.cs
+C:\Materias\C#\CourseM1CSharp\MiProyectoConsola\obj\Debug\net7.0\MiProyectoConsola.csproj.CoreCompileInputs.cache
+C:\Materias\C#\CourseM1CSharp\MiProyectoConsola\obj\Debug\net7.0\MiProyectoConsola.dll
+C:\Materias\C#\CourseM1CSharp\MiProyectoConsola\obj\Debug\net7.0\refint\MiProyectoConsola.dll
+C:\Materias\C#\CourseM1CSharp\MiProyectoConsola\obj\Debug\net7.0\MiProyectoConsola.pdb
+C:\Materias\C#\CourseM1CSharp\MiProyectoConsola\obj\Debug\net7.0\MiProyectoConsola.genruntimeconfig.cache
+C:\Materias\C#\CourseM1CSharp\MiProyectoConsola\obj\Debug\net7.0\ref\MiProyectoConsola.dll
